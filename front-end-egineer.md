@@ -27,3 +27,6 @@ Thank you for your interest in joining Punchlist and taking the time to complete
 
 ## Submission
 Publish the code in a Github repo. If it's private please invite [@nicdev](https://github.com/nicdev) or make it public and notify [nic@usepunchlist.com](mailto:nic@usepunchlist.com)
+
+## Questions and Communication
+If you have any questions along the way, please use the provided project management application (Asana) to communicate. We will do our best to respond quickly and help along the way.
