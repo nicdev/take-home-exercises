@@ -17,13 +17,13 @@ Thank you for your interest in joining Punchlist and taking the time to complete
 ### Main Criteria
 * Is the code readable and clear?
 * Is it well written?
-* Is it aesthetically pleasing?
+* Is it aesthetically pleasing? (frameworks ok)
 
 ### Bonus Points
 * Test coverage
 * Is it easy to set up and run?
-* Project includes Laravel and/or TailwindCSS
-* It surprises and delights in any way.
+* Project includes Laravel and/or TailwindCSS or Bootstrap
+* It surprises and delights in some way.
 
 ## Submission
 Publish the code in a Github repo. If it's private please invite [@nicdev](https://github.com/nicdev) or make it public and notify [nic@usepunchlist.com](mailto:nic@usepunchlist.com)
