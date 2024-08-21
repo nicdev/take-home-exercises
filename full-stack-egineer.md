@@ -1,6 +1,6 @@
 # Full Stack Engineer Exercise
 
-Thank you for your interest in joining Punchlist and taking the time to complete this exercise. You have 7 days from the time you receive it to complete and submit it. Once submitted we will review it internally and schedule a follow up interview which will be mainly based on your work in this exercise.
+Thank you for your interest in joining Punchlist and taking the time to complete this exercise. You have 3 days from the time you receive it to complete and submit it. Once submitted we will review it internally and schedule a follow up interview which will be mainly based on your work in this exercise.
 
 ## Objective and Requirements
 
@@ -27,7 +27,7 @@ Thank you for your interest in joining Punchlist and taking the time to complete
 * It surprises and delights in some way.
 
 ## Submission
-Publish the code in a Github repo. If it's private please invite [@nicdev](https://github.com/nicdev) or make it public and notify [nic@usepunchlist.com](mailto:nic@usepunchlist.com)
+Publish the code in a Github repo. If it's private please invite [@nicdev](https://github.com/nicdev) or make it public and notify [nicrosental@gmail.com](mailto:nicrosental.com)
 
 ## Questions and Communication
-If you have any questions along the way, please use the provided project management application (Asana) to communicate. We will do our best to respond quickly and help along the way.
+If you have any questions along the way, please use [me via email](mailto:nicrosental@gmail.com). I will do our best to respond quickly and help along the way.
