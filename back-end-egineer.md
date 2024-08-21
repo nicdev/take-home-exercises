@@ -29,4 +29,4 @@ Thank you for your interest in joining Punchlist and taking the time to complete
 Publish the code in a Github repo. If it's private please invite [@nicdev](https://github.com/nicdev) or make it public and notify [nicrosental@gmail.com](mailto:nicrosental.com)
 
 ## Questions and Communication
-If you have any questions along the way, please contact [me via email](mailto:nicrosental@gmail.com). I will do our best to respond quickly and help along the way.
+If you have any questions along the way, please contact [me via email](mailto:nicrosental@gmail.com). I will do my best to respond quickly and help along the way.
