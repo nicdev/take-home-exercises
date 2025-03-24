@@ -26,7 +26,7 @@ Thank you for your interest in joining Punchlist and taking the time to complete
 * Project includes TailwindCSS
 
 ## Submission
-Publish the code in a Github repo. If it's private please invite [@nicdev](https://github.com/nicdev) and [@Marketwake](https://github.com/Marketwake), or make it public and notify [nicrosental@gmail.com](mailto:nicrosental.com). Also send an email to haley.Chrismon@marketwake.com and punchlist@marketwake.com.]
+Publish the code in a Github repo. If it's private please invite [@nicdev](https://github.com/nicdev) and [@Marketwake](https://github.com/Marketwake), or make it public and notify [nicrosental@gmail.com](mailto:nicrosental.com). Also send an email to haley.theisen@marketwake.com  and punchlist@marketwake.com.]
 
 ## Questions and Communication
-If you have any questions along the way, please contact [me via email](mailto:nicrosental@gmail.com) or [Haley Theisen](mailto:haley.Chrismon@marketwake.com). We will do our best to respond quickly and help you along the way.
+If you have any questions along the way, please contact [me via email](mailto:nicrosental@gmail.com) or [Haley Theisen](mailto:haley.theisen@marketwake.com ). We will do our best to respond quickly and help you along the way.
